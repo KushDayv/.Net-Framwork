@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\bin\Debug\net6.0-windows\Student Grades calculation.exe
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\bin\Debug\net6.0-windows\Student Grades calculation.deps.json
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\bin\Debug\net6.0-windows\Student Grades calculation.runtimeconfig.json
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\bin\Debug\net6.0-windows\Student Grades calculation.dll
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\bin\Debug\net6.0-windows\Student Grades calculation.pdb
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\obj\Debug\net6.0-windows\Student Grades calculation.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\obj\Debug\net6.0-windows\Student_Grades_calculation.Form1.resources
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\obj\Debug\net6.0-windows\Student Grades calculation.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\obj\Debug\net6.0-windows\Student Grades calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\obj\Debug\net6.0-windows\Student Grades calculation.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\obj\Debug\net6.0-windows\Student Grades calculation.AssemblyInfo.cs
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\obj\Debug\net6.0-windows\Student Grades calculation.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\obj\Debug\net6.0-windows\Student Grades calculation.dll
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\obj\Debug\net6.0-windows\refint\Student Grades calculation.dll
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\obj\Debug\net6.0-windows\Student Grades calculation.pdb
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\obj\Debug\net6.0-windows\Student Grades calculation.genruntimeconfig.cache
+C:\Users\PC\source\repos\Student Grades calculation\Student Grades calculation\obj\Debug\net6.0-windows\ref\Student Grades calculation.dll
